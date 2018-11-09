@@ -1,0 +1,100 @@
+{'product_name': 'promo netbook asus ', 'product_price': 'Rp 3.180.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'Laptop Asus x454w full laminating jamin mulus lanjay', 'product_price': 'Rp 2.800.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'LAPTOP ASUS X555BP-BX921T', 'product_price': 'Rp 5.999.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'Laptop Asus X441NA ', 'product_price': 'Rp 3.870.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'ASUS ROG GL702VS', 'product_price': 'Rp 27.500.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'ASUS E203NAH DUAL CORE 2GB HDD 500 WINDOWS ORI TERLARIS', 'product_price': 'Rp 3.180.000', 'product_rating': '4.5', 'product_review': 0}
+
+{'product_name': 'ASUS ROG GL 503VD INTEL CORE I7 7700HQ-RAM 8GB-HDD 8GB-VGA 4GB - FUUL HD - WIN 10', 'product_price': 'Rp 15.500.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'laptop Asuz X441', 'product_price': 'Rp 4.175.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'ASUS A442UR INTER CORE I5 8250-RAM 4GB- HDD 1000GB-VGA 2GB-DVD-WIN 10', 'product_price': 'Rp 7.500.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'ASUS X555BP AMDA9', 'product_price': 'Rp 5.350.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'Asus A46C Intel Core i3 kondisi siap pakai', 'product_price': 'Rp 2.850.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'ASUS VIVOBOOK FLIP TP201SA-FV0028D QUAD CORE N3710-4GB-500GB-11.6INCH TOUCHSCREEN', 'product_price': 'Rp 2.800.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'ASUS X453S CEL N3050-2GB-500GB-14INCH', 'product_price': 'Rp 1.950.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'Asus Zenbook Flip UX360UAK I5 7200 8Gb SSD512GB Keyboard Backlight Fullset', 'product_price': 'Rp 11.000.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'Asus X454YA Amd A8 Quadcore 7410 4CPU Ram4GB HDD500GB AmdRadeon R5', 'product_price': 'Rp 3.400.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'Asus Entry Gaming X555BA AmdQuadCore A9 9420 Ram4Gb Vga AmdRadeon Graphic', 'product_price': 'Rp 3.750.000', 'product_rating': '5.0', 'product_review': 0}
+
+{'product_name': 'Asus Gaming ROG GL552VX Intel Core i7 HDD1TB Nvidia GTX 950M Like New Gan', 'product_price': 'Rp 9.485.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'Asus A455L Intel Core i3 Nvidia GeForce 820M 2GB Fullset', 'product_price': 'Rp 3.500.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'X441U ASUS GAMING I3 ISTIMEWA', 'product_price': 'Rp 4.250.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'Asus X555D Black Silver', 'product_price': 'Rp 4.000.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'ASUS X541NA-BX002D N3350 2G 500G DOS SILVER', 'product_price': 'Rp 3.499.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'LAPTOP ASUS ROG Strix GL503GE-EN023T I7-8750H - Metal Black', 'product_price': 'Rp 15.950.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'Laptop Asus X441S Intel N3060 HD00 RAM 2GB Baransi Panjang 4-2019', 'product_price': 'Rp 2.400.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'Laptop Gamers Lenovo 110 AMD A9-9400 HD 1Tera RAM 4GB RAM Radeon', 'product_price': 'Rp 3.650.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'LAPTOP ASUS FX504GD i5-8300HQ 8GB-1TB WIN10 VGA GTX1050 4GB RESMI', 'product_price': 'Rp 11.800.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'ASUS TRANSFORMER FLIP GAMING', 'product_price': 'Rp 4.000.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'Asus A43SL Gaming', 'product_price': 'Rp 3.000.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'ASUS ROG GL553VD-DM282T Black Core i7 7700HQ 8Gb SSd128 1Tb nVidia GTX1050M 4GB Win10', 'product_price': 'Rp 16.175.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'laptop Asus X441N 14inchi Garansi Resmi April 2020 4GB 1TB', 'product_price': 'Rp 3.450.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'ASUS ROG SERIES G771JW game berat libas', 'product_price': 'Rp 14.000.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'Laptop Asus', 'product_price': 'Rp 12.000.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'LAPTOP ASUS ROG GL553VD FY380 RAM 16GB ', 'product_price': 'Rp 10.000.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'Lenovo b490 celeron ivi bridge 1000m ram 2gb hdd 320gb 14 inch non batere mulus banget', 'product_price': 'Rp 1.450.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'Asus X540LA Core i3 Generasi 5.', 'product_price': 'Rp 3.500.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'Asus Gaming A555L Core i5 5200u Broadwell Lyr 15 Inch Dual VGA Ram 4GB HDD 1 Tera', 'product_price': 'Rp 4.500.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'Acer 14 Z1402 Core i3 Broadwell 5005u Ram 2GB HDD 500GB No Minus', 'product_price': 'Rp 2.800.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'ASUS ROG GL502VT FY128T I7-6700HQ 1TB 128GB 16GB DDR4  GTX970M 6GB', 'product_price': 'Rp 13.250.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'ASUS E203NAH FD112T FD012T Windows 10 Intel3350-500GB-2GB Putih Resmi', 'product_price': 'Rp 3.044.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'ASUS X453MA KONDISI OK', 'product_price': 'Rp 2.250.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'Laptop murah Asus X453M black', 'product_price': 'Rp 2.300.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'ASUS A442UR i5 8250u', 'product_price': 'Rp 7.500.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'X441BA', 'product_price': 'Rp 4.575.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'Laptop Asus X441NA ', 'product_price': 'Rp 4.500.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'LAPTOP ASUS E203NAH 2GB 500GB W10 TERLARIS', 'product_price': 'Rp 3.299.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'LAPTOP ASUS X540YA 2GB 500GB W10 TERLARIS', 'product_price': 'Rp 3.600.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'LAPTOP ASUS X441NA 4GB 500GB W10 TERLARIS', 'product_price': 'Rp 3.800.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'macbook asus', 'product_price': 'Rp 2.750.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'Asus X555BA AMD A9', 'product_price': 'Rp 4.850.000', 'product_rating': 0, 'product_review': 0}
+
+{'product_name': 'PROMO LAPTOP GAMING X441BA AMD A9 RAM 4GB HDD 1TB 14 inch WINDOWS 10 ORIGINAL GRANSI RESMI ASUS 2 TAHUN FREE PAKING KAYU WARNA IT', 'product_price': 'Rp 4.772.000', 'product_rating': '5.0', 'product_review': 0}
+
+{'product_name': 'LAPTOP Asus X540L AXX1015D with 4GB RAM HDD 500GB 15 INCH DOS PROMO MURAH FREE PAKING KAYU ', 'product_price': 'Rp 5.175.000', 'product_rating': '5.0', 'product_review': 0}
+
